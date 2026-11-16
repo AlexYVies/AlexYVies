@@ -18,16 +18,14 @@ I build end-to-end software solutions—from **.NET & SQL Server** APIs and **An
 
 ## 🚀 Featured Projects
 
-> *(Repositories are currently being published and documented—links will go live as each project is uploaded.)*
-
-1. **SIRET — Thesis Repository & AI Auditor** *(Full-Stack / Backend + AI)*  
-   Clean Architecture platform in **.NET + Angular 21 + Tailwind CSS** with automated PDF reference extraction, AI-assisted auditing (Python/Ollama), and unit tests.
-2. **FitConnect — Smart Gym Management** *(Full-Stack + IoT)*  
-   **.NET** backend, web frontend, **SQL** database, and **ESP32** hardware integration for gym access and administration.
-3. **Smart Room IR Controller** *(Mobile + IoT + Automation)*  
-   **Flutter** mobile app, **Python** automation scripts, **Arduino/ESP32** infrared controller, and iOS Shortcuts integration.
-4. **Mobile Document Scanner** *(Mobile)*  
-   Cross-platform **Flutter** application for mobile scanning workflows.
+1. **[SIRET — Thesis Repository & AI Auditor](https://github.com/AlexYVies/siret-tesis)** *(Full-Stack / Backend + AI)*  
+   Clean Architecture platform in **.NET 8 + Angular 21 + Tailwind CSS** with automated PDF reference extraction, AI-assisted auditing (Python), and **58 xUnit integration tests**.
+2. **[FitConnect — Smart Gym Management](https://github.com/AlexYVies/fitconnect-gym)** *(Full-Stack + IoT)*  
+   **.NET 8** backend, transactional multi-item POS, **SQL Server** database, **Docker**, and **ESP32** NFC/MQTT hardware integration.
+3. **[Control Habitación IR — Smart Room Controller](https://github.com/AlexYVies/control-habitacion-ir)** *(Mobile + IoT + Automation)*  
+   **Flutter** mobile app (with Android APK release), **ESP32** infrared/Wi-Fi controller, **Python**, and **iOS Shortcuts** integration.
+4. **[Escáner Móvil — Photos to PDF](https://github.com/AlexYVies/escaner-movil-flutter)** *(Mobile)*  
+   Cross-platform **Flutter** (Material 3) application to capture, crop, reorder, and export high-quality PDFs.
 
 ---
 
