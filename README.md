@@ -45,5 +45,5 @@ I build end-to-end software solutions—from **.NET & SQL Server** APIs and **An
 ## 📫 Contact
 
 - **Location:** Tulancingo, Hidalgo, Mexico
-- **Email:** [2230100@upt.edu.mx](mailto:2230100@upt.edu.mx)
+- **Email:** [alexisvies0218@gmail.com](mailto:alexisvies0218@gmail.com)
 - **GitHub:** [@AlexYVies](https://github.com/AlexYVies)
