@@ -20,7 +20,7 @@ I build end-to-end software solutions—from **.NET & SQL Server** APIs and **An
 
 > *(Repositories are currently being published and documented—links will go live as each project is uploaded.)*
 
-1. **SIGAE — Thesis Repository & AI Auditor** *(Full-Stack / Backend + AI)*  
+1. **SIRET — Thesis Repository & AI Auditor** *(Full-Stack / Backend + AI)*  
    Clean Architecture platform in **.NET + Angular 21 + Tailwind CSS** with automated PDF reference extraction, AI-assisted auditing (Python/Ollama), and unit tests.
 2. **FitConnect — Smart Gym Management** *(Full-Stack + IoT)*  
    **.NET** backend, web frontend, **SQL** database, and **ESP32** hardware integration for gym access and administration.
