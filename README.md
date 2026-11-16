@@ -44,4 +44,5 @@ I build end-to-end software solutions—from **.NET & SQL Server** APIs and **An
 
 - **Location:** Tulancingo, Hidalgo, Mexico
 - **Email:** [alexisvies0218@gmail.com](mailto:alexisvies0218@gmail.com)
+- **LinkedIn:** [Alexis Yahir Villar Escorcia](https://www.linkedin.com/in/alexis-yahir-villar-escorcia-8b885b449/)
 - **GitHub:** [@AlexYVies](https://github.com/AlexYVies)
